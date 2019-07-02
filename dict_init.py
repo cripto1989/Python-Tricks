@@ -1,6 +1,4 @@
-"""
-3 ways to init a dict
-"""
+# 3 ways to init a dict
 
 # Using curly braces directly
 music = {

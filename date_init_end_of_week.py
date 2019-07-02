@@ -3,7 +3,8 @@ import datetime
 
 def get_init_end_date(date=None):
     """
-    This function return two dates base on a date set or the current date(today)
+    This function return a dictionary with both init and end date of the week 
+    base on a date given or the current date(today)
     Monday(0) - Sunday(6)
     return dict: init and end date of the week
     """    
