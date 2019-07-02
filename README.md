@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="python.jpeg">
+</p>
+
 Python Tricks is a collections of script that help us to be al little bit more efective in Python.
 
 ### Dictionary
 * [3 ways to init dictionaries](../master/dict_init.py)
-* [How to merge dictionaries](../master/merge-dict.py)
+* [How to merge dictionaries](../master/merge_dict.py)
 * [How to sort a dictionary by a value](../master/sort_dictionary_by_value.py)
 * [Deleting elements of a dictionary](../master/remove_elements_dict.py)
 
