@@ -21,3 +21,7 @@ Python Tricks is a collections of script that help us to be al little bit more e
 ### Datetime
 * [Get init and end date of a week base on a date](../master/date_init_end_of_week.py)
 
+### String
+
+* [Slice a phrase by word instead of characters](../master/slice_phrase.py)
+
