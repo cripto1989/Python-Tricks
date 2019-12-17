@@ -13,6 +13,7 @@ Python Tricks is a collections of script that help us to be al little bit more e
 ### List
 * [How to merge lists](../master/merge_list.py)
 * [Find most frequently element using Counter](../master/most_frequent.py)
+* [Sum all elements of list](../master/sum_list_elements.py)
 
 ### JSON
 * [Writing a JSON file using open](../master/create_file_json.py)
