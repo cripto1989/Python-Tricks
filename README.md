@@ -14,6 +14,7 @@ Python Tricks is a collections of script that help us to be al little bit more e
 * [How to merge lists](../master/merge_list.py)
 * [Find most frequently element using Counter](../master/most_frequent.py)
 * [Sum all elements of list](../master/sum_list_elements.py)
+* [Find in a list of dictionaries](../master/find_list_dict.py)
 
 ### JSON
 * [Writing a JSON file using open](../master/create_file_json.py)
@@ -23,6 +24,7 @@ Python Tricks is a collections of script that help us to be al little bit more e
 * [Get init and end date of a week base on a date](../master/date_init_end_of_week.py)
 
 ### String
-
 * [Slice a phrase by word instead of characters](../master/slice_phrase.py)
 
+### Comparison
+* [Slice a phrase by word instead of characters](../master/comparison_and.py)
